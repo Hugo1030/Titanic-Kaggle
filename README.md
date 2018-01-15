@@ -1,11 +1,16 @@
 # Titanic-Kaggle
 
-## 算法选择
-* [ ] Logistic Regression
-* [ ] RandomForest
+## [Exploratory Data Analysis (EDA)](https://github.com/Hugo1030/Titanic-Kaggle/blob/master/EDA-To-Prediction.ipynb)
 
-## 解题思路
-* [ ] 数据分析
-* [ ] 离群处理
-* [ ] 特征工程
-* [ ] 模型融合
+* **Part1: Exploratory Data Analysis(EDA):**
+    * Analysis of the features.
+    * Finding any felations or trends considering multiple features.
+* **Part2: Feature Engineering and Data Cleaning:**
+    * Adding any few features.
+    * Removing redundant features.
+    * Converting features into suitable form for modeling.
+* **Part3: Predictive Modeling:**
+    * Running Basic Algorithms.
+    * Cross Validation.
+    * Ensembling.
+    * Important Features Extraction.
