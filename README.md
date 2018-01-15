@@ -1,6 +1,6 @@
 # Titanic-Kaggle
 
-## [Exploratory Data Analysis (EDA)](https://github.com/Hugo1030/Titanic-Kaggle/blob/master/EDA-To-Prediction.ipynb)
+## [EDA To Prediction](https://github.com/Hugo1030/Titanic-Kaggle/blob/master/EDA-To-Prediction.ipynb)
 
 * **Part1: Exploratory Data Analysis(EDA):**
     * Analysis of the features.
