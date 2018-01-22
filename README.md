@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster
+# Titanic: Machine Learning from Disaster (Auc: 0.81339)
 
 ## Competition Description
 
@@ -22,3 +22,11 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
     * Cross Validation.
     * Ensembling.
     * Important Features Extraction.
+
+## Reference
+* [EDA To Prediction(DieTanic)
+](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+* [Titanic Survival Exploration](https://github.com/udacity/machine-learning/blob/master/projects/titanic_survival_exploration/titanic_survival_exploration.ipynb)
+* [ 机器学习系列(3)_逻辑回归应用之Kaggle泰坦尼克之灾](http://blog.csdn.net/han_xiaoyang/article/details/49797143)
+* [Titanic-0.82297
+](https://www.kaggle.com/johnzyh/titanic-0-82297)
