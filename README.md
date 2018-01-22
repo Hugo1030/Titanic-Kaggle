@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster (Auc: 0.81339)
+# Titanic: Machine Learning from Disaster (Accuracy: 0.81339)
 
 ## Competition Description
 
