@@ -16,8 +16,8 @@ from sklearn.model_selection import GridSearchCV
 
 #%% Import data
 # Import both data sets
-trainRaw = pd.read_csv('../input/train.csv')
-testRaw = pd.read_csv('../input/test.csv')
+trainRaw = pd.read_csv('../data/train.csv')
+testRaw = pd.read_csv('../data/test.csv')
 
 # And concatonate together
 nTrain = trainRaw.shape[0]
